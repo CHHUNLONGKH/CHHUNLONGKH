@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
-  <img src="https://raw.githubusercontent.com/CHHUNLONGKH/CHHUNLONGKH/main/assets/banner.svg" width="100%" alt="Chhun Long - R&D Engineer" />
+  <img src="https://raw.githubusercontent.com/CHHUNLONGKH/CHHUNLONGKH/main/banner.svg" width="100%" alt="Chhun Long - R&D Engineer" />
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
