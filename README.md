@@ -23,7 +23,7 @@
 
   <!-- Language switcher -->
   <p align="center">
-    🌐 <b>English</b> | <a href="README.km.md">ភាសាខ្មែរ</a>
+    🌐 <b>English</b> | <a href="https://github.com/CHHUNLONGKH/CHHUNLONGKH/blob/main/README.km.md">ភាសាខ្មែរ</a>
   </p>
 
   <!-- Quick navigation -->
